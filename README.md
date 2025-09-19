@@ -1,6 +1,6 @@
 # Venkatesh Vaddadi
 
-**Ph.D. Candidate** — Medical Imaging & Deep Learning  
+**Ph.D. Student** — Medical Imaging & Deep Learning  
 *Department of Computational and Data Sciences*  
 *Indian Institute of Science (IISc), Bangalore, India*  
 

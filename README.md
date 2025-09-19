@@ -101,11 +101,23 @@
 
 ---
 
-## Teaching Experience
-- **Artificial Intelligence in Healthcare: Theory to Practice**, IISc & Aster Health Academy (2023–2024)  
-- **Artificial Intelligence for Medical Image Analysis (DS 261)**, IISc (Aug–Dec 2023)  
-- **Digital Health and Imaging Technology**, IISc (Aug–Dec 2023)  
-- **Python for Machine Learning**, University of Hyderabad (Jan–Apr 2019)  
+## Teaching Assistant Experience
+
+- **Artificial Intelligence in Healthcare: Theory to Practice**  
+  IISc and Aster Health Academy  
+  - Dec 2023 – Mar 2024  
+  - Mar – Aug 2024  
+  - Aug – Dec 2024  
+
+- **DS 261 (3:1): Artificial Intelligence for Medical Image Analysis**  
+  IISc, Aug – Dec 2023  
+
+- **Digital Health and Imaging Technology**  
+  IISc, Aug – Dec 2023  
+
+- **Python for Machine Learning**  
+  University of Hyderabad, Jan – Apr 2019  
+
 
 ---
 

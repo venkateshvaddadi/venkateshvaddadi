@@ -50,7 +50,7 @@
 
 3. Venkatesh Vaddadi, Raji Susan Mathew, and Phaneendra K. Yalavarthy.  
    *ISDU-QSMNet: Iterative Specific Denoising via Unshared Weights for QSM Reconstruction.*  
-   NMR in Biomedicine, Sep (2024). [Submission ID: NBM-24-0396] — under Major Revision.  
+   NMR in Biomedicine, Sep (2024). [Submission ID: NBM-24-0396]
 
 4. Venkatesh Vaddadi, Lokesh Bathala, Raji Susan Mathew, and Phaneendra K. Yalavarthy.  
    *MNSeg-Net: A Novel Lightweight Multi-Scale Feature Fusion Deep Network for Real-Time Median Nerve Segmentation in Ultrasonography.*  

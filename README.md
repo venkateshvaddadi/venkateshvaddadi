@@ -105,12 +105,3 @@
 
 ---
 
-## References
-- **Dr. Phaneendra K. Yalavarthy** — Professor, IISc  
-  [Profile](http://cds.iisc.ac.in/faculty/yalavarthy/) | 📧 yalavarthy@iisc.ac.in  
-
-- **Dr. Lokesh B** — Consultant Neurologist, Aster CMI Hospital, Bangalore  
-  [Profile](https://www.asterhospitals.in/doctors/aster-cmi-bangalore/dr-lokesh-b/) | 📧 drlokeshbdvt@gmail.com  
-
-- **Dr. Raji Susan Mathew** — Assistant Professor, IISER Thiruvananthapuram  
-  [Profile](https://www.iisertvm.ac.in/faculty/rajisusanmathew) | 📧 rajisusanmathew@iisertvm.ac.in  

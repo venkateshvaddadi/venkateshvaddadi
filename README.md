@@ -1,6 +1,4 @@
 
-<body>
-  <div class="container">
     <h1>Venkatesh Vaddadi</h1>
     <p><strong>Ph.D. Candidate</strong> - Medical Imaging & Deep Learning</p>
     <p><em>Indian Institute of Science (IISc), Bangalore</em></p>
@@ -29,5 +27,3 @@
       <p>GitHub: <a href="https://github.com/venkateshvaddadi" target="_blank">venkateshvaddadi</a></p>
       <p>LinkedIn: <a href="https://www.linkedin.com/in/vaddadivenkatesh254/" target="_blank">vaddadivenkatesh254</a></p>
     </div>
-  </div>
-</body>

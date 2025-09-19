@@ -1,19 +1,4 @@
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Venkatesh Vaddadi - Profile</title>
-  <style>
-    body { font-family: Arial, sans-serif; margin: 20px; background: #f5f5f5; color: #333; }
-    .container { max-width: 800px; margin: auto; background: white; padding: 20px; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1); }
-    h1 { margin-top: 0; }
-    h2 { margin-bottom: 6px; }
-    p { margin: 4px 0; }
-    ul { padding-left: 20px; }
-    .contact a { color: #0066cc; text-decoration: none; }
-  </style>
-</head>
+
 <body>
   <div class="container">
     <h1>Venkatesh Vaddadi</h1>
@@ -46,4 +31,3 @@
     </div>
   </div>
 </body>
-</html>

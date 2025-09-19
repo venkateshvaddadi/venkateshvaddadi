@@ -78,10 +78,19 @@
 ---
 
 ## Research Projects
-- **[SpiNet-QSM](https://github.com/venkateshvaddadi/SpiNet-QSM)**: Schatten p-norm driven model-based DL for QSM reconstruction.  
-- **[MNSeg-Net](https://github.com/venkateshvaddadi/MNSeg-Net)**: Real-time lightweight CNN for median nerve segmentation (43 fps), clinically validated at Aster-CMI Hospital.  
-- **[MSFF-QSMNet](https://github.com/venkateshvaddadi/MSFF-QSMNet)**: Multi-scale feature fusion network for QSM reconstruction across diverse protocols.  
-- **[ISDU-QSMNet](https://github.com/venkateshvaddadi/ISDU_QSMNet)**: Iteration-specific denoiser with unshared weights for efficient QSM reconstruction.  
+
+- **[SpiNet-QSM](https://github.com/venkateshvaddadi/SpiNet-QSM): Model-based Deep Learning with Schatten p-norm Regularization for Improved Quantitative Susceptibility Mapping**  
+  This work proposed an effective model-based deep learning framework to solve the inverse problem of Quantitative Susceptibility Mapping (QSM). It is a Schatten p-norm-driven model-based deep learning framework with a learnable norm parameter *p* to adapt to the data. QSM provides an estimation of the magnetic susceptibility of tissues from magnetic resonance (MR) phase measurements. Estimation of the tissue magnetic susceptibility (source) from the measured magnetic field distribution/local tissue field (effect) inherent in the MR phase images was achieved by solving the inverse problem.
+
+- **[MNSeg-Net](https://github.com/venkateshvaddadi/MNSeg-Net): Real-Time Median Nerve Segmentation in Ultrasonography**  
+  This work proposed an efficient, lightweight CNN model for the fully automated segmentation of the median nerve, providing a throughput of 43 frames per second. It supports real-time median nerve segmentation inference and can efficiently segment the median nerve from wrist to elbow, along with respective CSA calculation, in comparison with manual tracing of nerve boundaries performed by expert sonographers. The proposed model has also been clinically validated by testing on clinical data. An end-to-end clinical setup was developed with a Python-based graphical user interface (GUI) for median nerve segmentation, providing clinical assistance to sonographers. This setup has already been made available in Aster-CMI Hospital for clinical validation in real time.
+
+- **[MSFF-QSMNet](https://github.com/venkateshvaddadi/MSFF-QSMNet): An Efficient Multi-Scale Feature Fusion Network for QSM Reconstruction**  
+  This work proposed an end-to-end deep learning model to solve the inverse problem of QSM called MSFF-QSMNet. It introduced multi-scaling and feature fusion for improving QSM reconstruction. Reconstruction was performed with 95 imaging volumes with different acquisition protocols and clinical conditions such as hemorrhage and multiple sclerosis. The results showed that the proposed approach outperformed existing state-of-the-art deep learning methods by a significant margin in terms of quantitative metrics.
+
+- **[ISDU-QSMNet](https://github.com/venkateshvaddadi/ISDU_QSMNet): Iterative Specific Denoising via Unshared Weights for QSM Reconstruction**  
+  This work proposed an efficient model-based deep learning technique by leveraging important parameters of model-based deep learning for QSM reconstruction. It introduced a powerful model-based design for improving QSM reconstruction with iteration-specific denoisers via unshared weights. This strategy improves reconstruction fidelity while maintaining efficiency and generalization across datasets.
+
 
 ---
 

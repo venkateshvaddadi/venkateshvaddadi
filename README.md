@@ -6,7 +6,7 @@
 
 📧 Email: [venkateshvad@iisc.ac.in](mailto:venkateshvad@iisc.ac.in) | [venkateshvaddadi254@gmail.com](mailto:venkateshvaddadi254@gmail.com)  
 📱 Mobile: +91 9640343752  
-🌐 Website: [Personal Site](https://sites.google.com/view/vaddadivenkatesh/)  
+🌐 Website: [[Personal Site](https://sites.google.com/view/vaddadivenkatesh/)](https://sites.google.com/view/vaddadivenkatesh/)  
 🔗 [GitHub](https://github.com/venkateshvaddadi) | [LinkedIn](https://www.linkedin.com/in/vaddadivenkatesh254/) | [Google Scholar](https://scholar.google.com/citations?user=Ac8akCAAAAAJ&hl=en)  
 
 ---

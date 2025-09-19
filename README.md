@@ -37,24 +37,34 @@
 ## Publications
 
 ### Journals (Published)
-1. **SpiNet-QSM**: Model-based deep learning with schatten p-norm regularization for improved QSM.  
-   *Magnetic Resonance Materials in Physics, Biology and Medicine* (2024).  
-   [Link](https://link.springer.com/article/10.1007/s10334-024-01158-7)  
 
-2. **Transformer-based automated segmentation of the median nerve** in ultrasound videos.  
-   *IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control* (2023).  
-   [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10309959)  
+1. Venkatesh Vaddadi, Raji Susan Mathew, and Phaneendra K. Yalavarthy.  
+   *SpiNet-QSM: Model-based deep learning with schatten p-norm regularization for improved quantitative susceptibility mapping.*  
+   Magnetic Resonance Materials in Physics, Biology and Medicine (2024): 1–17.  
+   [Link](https://link.springer.com/article/10.1007/s10334-024-01158-7)
 
-3. **ISDU-QSMNet**: Iterative Specific Denoising via Unshared Weights for QSM Reconstruction.  
-   *NMR in Biomedicine* (2024)
+2. Gujarati Karan R., Lokesh Bathala, Vaddadi Venkatesh, Raji Susan Mathew, and Phaneendra K. Yalavarthy.  
+   *Transformer-based automated segmentation of the median nerve in ultrasound videos of wrist-to-elbow region.*  
+   IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control (2023).  
+   [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10309959)
 
-4. **MNSeg-Net**: Lightweight Multi-Scale Feature Fusion Deep Network for real-time median nerve segmentation.  
-   *Medical Physics* (2025) — under major revision.  
+3. Venkatesh Vaddadi, Raji Susan Mathew, and Phaneendra K. Yalavarthy.  
+   *ISDU-QSMNet: Iterative Specific Denoising via Unshared Weights for QSM Reconstruction.*  
+   NMR in Biomedicine, Sep (2024). [Submission ID: NBM-24-0396] — under Major Revision.  
 
-### Clinical Papers
-1. **Tooth detection and numbering in panoramic radiographs using AI.**  
-   *Population Medicine* (2023).  
-   [Link](https://www.populationmedicine.eu/Tooth-detection-and-numbering-in-panoramic-radiographs-using-an-artificial-intelligence,164270,0,2.html)  
+4. Venkatesh Vaddadi, Lokesh Bathala, Raji Susan Mathew, and Phaneendra K. Yalavarthy.  
+   *MNSeg-Net: A Novel Lightweight Multi-Scale Feature Fusion Deep Network for Real-Time Median Nerve Segmentation in Ultrasonography.*  
+   Medical Physics, Jan (2025). [Submission ID: MS-25-216] — under Major Revision.  
+
+---
+
+### Clinical Papers (Published)
+
+1. Ayoob, Aneesa Karuthora, Venkatesh Vaddadi, Phaneendra K. Yalavarthy, and Chandrashekar Janakiram.  
+   *Tooth detection and numbering in panoramic radiographs using an artificial intelligence approach.*  
+   Population Medicine 5, Supplement (2023).  
+   [Link](https://www.populationmedicine.eu/Tooth-detection-and-numbering-in-panoramic-radiographs-using-an-artificial-intelligence,164270,0,2.html)
+
 
 ---
 

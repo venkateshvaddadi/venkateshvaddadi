@@ -46,7 +46,7 @@
    [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10309959)  
 
 3. **ISDU-QSMNet**: Iterative Specific Denoising via Unshared Weights for QSM Reconstruction.  
-   *NMR in Biomedicine* (2024) — under major revision.  
+   *NMR in Biomedicine* (2024)
 
 4. **MNSeg-Net**: Lightweight Multi-Scale Feature Fusion Deep Network for real-time median nerve segmentation.  
    *Medical Physics* (2025) — under major revision.  
